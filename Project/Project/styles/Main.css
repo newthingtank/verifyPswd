@@ -1,0 +1,54 @@
+﻿.Project {
+background: white;
+}
+
+h1 {
+font-size: 100px;
+color: blue;
+font-weight:bold;
+border-bottom: 1px solid navy;
+}
+
+h2 {
+font: 20px Arail, sans-serif;
+
+}
+
+#registerform {
+width: 337px;
+height: 406px;
+text-align:match-parent;
+background:#b6ff00;
+}
+#MyLink1 {
+font-size:20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.link:hover{
+         text-decoration: underline;
+    }
+
+h3{
+    font: 16px Arial,san-serif;
+}
+
+h4 {
+    font: 16px Arial,san-serif;
+}
+
+  #txtData {
+            width: 245px;
+            margin-left: 14px;
+        }
+        #Password1 {
+            width: 245px;
+            margin-left: 14px;
+        }
+        #Password2 {
+            width: 245px;
+            margin-left: 14px;
+        }

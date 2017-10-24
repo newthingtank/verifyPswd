@@ -1,0 +1,12 @@
+C:\Users\Rui\Desktop\OOP\Project\Project\bin\Project.dll.config
+C:\Users\Rui\Desktop\OOP\Project\Project\bin\Project.dll
+C:\Users\Rui\Desktop\OOP\Project\Project\bin\Project.pdb
+C:\Users\Rui\Desktop\OOP\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\Rui\Desktop\OOP\Project\Project\obj\Debug\Project.dll
+C:\Users\Rui\Desktop\OOP\Project\Project\obj\Debug\Project.pdb
+C:\Users\Rui\Desktop\Project\Project\bin\Project.dll.config
+C:\Users\Rui\Desktop\Project\Project\bin\Project.dll
+C:\Users\Rui\Desktop\Project\Project\bin\Project.pdb
+C:\Users\Rui\Desktop\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\Rui\Desktop\Project\Project\obj\Debug\Project.dll
+C:\Users\Rui\Desktop\Project\Project\obj\Debug\Project.pdb
